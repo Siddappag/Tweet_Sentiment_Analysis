@@ -76,3 +76,7 @@ Open your browser and go to http://localhost:8510
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project overview
 
+UI:
+<img width="828" height="595" alt="Screenshot 2025-06-29 004328" src="https://github.com/user-attachments/assets/49aad7f0-c5ad-4b57-97f5-3ae103998d0a" />
+
+
