@@ -2,9 +2,9 @@ Tweet Sentiment Analysis
 
 A simple and stylish machine learning web app built with Streamlit to classify the sentiment of tweets as Positive, Negative, or Neutral.
 
-🚀 Live Demo
+## 🚀 Live Demo
+[Click here to try the app](https://siddappag-tweet-sentiment-analysis-app-cvje01.streamlit.app/)
 
-👉 Try the App Here
 
 🌟 Features
 
