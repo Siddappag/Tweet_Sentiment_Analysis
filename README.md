@@ -3,6 +3,11 @@
 A simple and stylish machine learning web app built using Streamlit to classify the sentiment of tweets as Positive, Negative, or Neutral.
 
 
+## 🚀 Live Demo
+[Click here to try the app](https://siddappag-tweet-sentiment-analysis-app-cvje01.streamlit.app/)
+
+
+
 
  🌟 Features
 
@@ -10,6 +15,7 @@ A simple and stylish machine learning web app built using Streamlit to classify 
 - 🌈 Beautiful dark-mode UI with gradient title and sentiment boxes
 - 🧠 Trained machine learning model with TF-IDF vectorization
 - 🧽 Preprocessing and cleaning of tweet text
+
 
 ---
 
