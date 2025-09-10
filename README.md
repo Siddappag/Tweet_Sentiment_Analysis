@@ -84,6 +84,6 @@ Open your browser and go to http://localhost:8510
 
 
 <a href="https://siddappag-tweet-sentiment-analysis-app-cvje01.streamlit.app/" target="_blank" rel="noopener">
-  <img src="images/app_ui.png" alt="Tweet Sentiment App" style="max-width:100%;height:auto;border-radius:8px;" />
+  <img src=""C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-29 004328.png"" alt="Tweet Sentiment App" style="max-width:100%;height:auto;border-radius:8px;" />
 </a>
 
