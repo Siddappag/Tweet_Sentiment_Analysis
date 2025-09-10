@@ -83,4 +83,7 @@ Open your browser and go to http://localhost:8510
 └── README.md                  # Project overview
 
 
+<a href="https://siddappag-tweet-sentiment-analysis-app-cvje01.streamlit.app/" target="_blank" rel="noopener">
+  <img src="images/app_ui.png" alt="Tweet Sentiment App" style="max-width:100%;height:auto;border-radius:8px;" />
+</a>
 
