@@ -85,4 +85,4 @@ Open your browser and go to http://localhost:8510
 
 ## 📸 App UI
 
-![App Screenshot](c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-29 004328.png)
+![App Screenshot]("C:\Users\hp\OneDrive\Desktop\Tweet_Sentiment_Analysis\UI screenshot.png")
