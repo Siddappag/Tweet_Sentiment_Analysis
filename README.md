@@ -85,4 +85,4 @@ Open your browser and go to http://localhost:8510
 
 ## 📸 App UI
 
-![App Screenshot](UI screenshot.png)
+![App Screenshot](c:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-06-29 004328.png)
