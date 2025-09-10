@@ -1,89 +1,73 @@
- Tweet Sentiment Analysis
+Tweet Sentiment Analysis
 
-A simple and stylish machine learning web app built using Streamlit to classify the sentiment of tweets as Positive, Negative, or Neutral.
+A simple and stylish machine learning web app built with Streamlit to classify the sentiment of tweets as Positive, Negative, or Neutral.
 
+🚀 Live Demo
 
-## 🚀 Live Demo
-[Click here to try the app](https://siddappag-tweet-sentiment-analysis-app-cvje01.streamlit.app/)
+👉 Try the App Here
 
+🌟 Features
 
+🔍 Single tweet sentiment prediction
 
+🌈 Dark-mode UI with gradient title & sentiment boxes
 
- 🌟 Features
+🧠 ML model trained with TF-IDF + Logistic Regression
 
-- 🔍 Single tweet sentiment prediction
-- 🌈 Beautiful dark-mode UI with gradient title and sentiment boxes
-- 🧠 Trained machine learning model with TF-IDF vectorization
-- 🧽 Preprocessing and cleaning of tweet text
+🧽 Tweet preprocessing & cleaning (stopwords removal, lowercasing, etc.)
 
+⚙️ How It Works
 
----
+Clean the tweet → remove stopwords, special characters, and lowercase text
 
-## 🚀 How It Works
+Transform text → apply trained TF-IDF Vectorizer
 
-1. Clean the tweet using text preprocessing (stopwords removal, lowercasing, etc.)
-2. Transform the cleaned tweet using a trained "TF-IDF Vectorizer"
-3. Predict sentiment using a trained "Logistic regression" ML model 
-4. Display the result with a color-coded box in the UI
+Predict sentiment → use Logistic Regression model
 
----
+Display result → show color-coded sentiment box in the UI
 
-## 🛠️ Techn Stack
+🛠️ Tech Stack
 
-- 🐍 Python
-- 🎈 Streamlit
-- 🤖 Scikit-learn
-- 📦 Joblib
-- 🧹 NLTK for text preprocessing
+🐍 Python
 
----
+🎈 Streamlit
 
- 📦 Installation
+🤖 Scikit-learn
 
- 1. Clone the repository
+📦 Joblib
 
-```bash
+🧹 NLTK (text preprocessing)
+
+📦 Installation
+1️⃣ Clone the repository
 git clone https://github.com/Siddappag/tweet-sentiment-analysis.git
 cd tweet-sentiment-analysis
 
-Create a virtual environment (optional but recommended)
-
+2️⃣ Create a virtual environment (recommended)
 python -m venv venv
-
 venv\Scripts\activate   # On Windows
+source venv/bin/activate   # On Mac/Linux
 
-3. Install dependencies
-
-bash
+3️⃣ Install dependencies
 pip install -r requirements.txt
 
-4. Download NLTK stopwords (first time only)
-
-python
+4️⃣ Download NLTK stopwords (only first time)
 import nltk
 nltk.download('stopwords')
 
-🧪 Running the App
-bash
+5️⃣ Run the app
 streamlit run app.py
 
 
-Open your browser and go to http://localhost:8510
+👉 Open your browser at http://localhost:8501
 
+📂 Project Structure
+├── app.py                # Main Streamlit app
+├── sentiment_model.pkl   # Trained ML model
+├── vectorizer.pkl        # TF-IDF vectorizer
+├── tweet_cleaner.py      # Preprocessing logic
+├── requirements.txt      # Dependencies
+└── README.md             # Project documentation
 
-// Project Structure
-
-
-
-├── app.py                     # Main Streamlit app
-├── sentiment_model.pkl        # Trained ML model
-├── vectorizer.pkl             # TF-IDF vectorizer
-├── tweet_cleaner.py           # Preprocessing logic
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project overview
-
-
-
-## 📸 App UI
-
-![App Screenshot](images/UI_screenshot.png)
+📸 App UI
+<p align="center"> <img src="images/UI_screenshot.png" alt="App Screenshot" width="600"/> </p>
