@@ -88,5 +88,5 @@ Open your browser and go to http://localhost:8510
 <h2>📸 App UI</h2>
 
 <p align="center">
-  <img src="images/app_ui.png" alt="App UI Screenshot" width="600"/>
+  <img src="images/Screenshot 2025-06-29 004328.png" alt="App UI Screenshot" width="600"/>
 </p>
